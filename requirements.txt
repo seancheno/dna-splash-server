@@ -1,0 +1,30 @@
+Flask==0.10.1
+Flask-RESTful==0.3.7
+Flask-JWT==0.3.2
+Flask-CORS==3.0.7
+
+# JSON Serialization
+marshmallow==2.19.0
+marshmallow-sqlalchemy==0.16.0
+
+# Database
+psycopg2==2.7.1
+SQLAlchemy==1.2.7
+
+# Application server for both development and production.
+gunicorn==19.4.5
+
+# Testing and static analysis.
+flake8==2.5.4
+
+# Dna Coloring
+colorutils==0.2.1
+Pillow==5.3.0
+
+# S3
+boto3==1.9.117
+botocore==1.12.117
+
+# misc
+tqdm==4.31.1
+numpy==1.15.0
